@@ -26,8 +26,8 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "homepage": "https://taniarascia.github.io/react-hooks",
-  "description": "In this tutorial, we'll make a simple CRUD app that can add, update, or delete users.",
+  "homepage": "https://Kaue-Gomes.github.io/Crud-React",
+  "description": "Um crud simples utilizando react e tailwind com hooks",
   "main": "index.js",
   "devDependencies": {
     "autoprefixer": "^10.4.21",
