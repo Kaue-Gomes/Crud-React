@@ -1,13 +1,25 @@
-# React Hooks Tutorial
+# 📋 CRUD com React, Tailwind e Hooks
 
-In this tutorial, we'll make a simple CRUD app that can add, update, or delete users.
+Este projeto é uma aplicação simples de CRUD (Create, Read, Update, Delete) desenvolvida com **React** usando **Hooks** e estilizada com **Tailwind CSS**. Ele permite adicionar, listar, editar e remover registros de uma lista local (sem backend).
 
-### [View the demo](https://taniarascia.github.io/react-hooks/) | [Read the tutorial](https://www.taniarascia.com/crud-app-in-react-with-hooks/)
+## ⚙️ Tecnologias Utilizadas
 
-## Author
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [React Hooks (useState, useEffect)](https://reactjs.org/docs/hooks-intro.html)
 
-- [Tania Rascia](https://www.taniarascia.com)
+## 🚀 Funcionalidades
 
-## License
+- ✅ Adicionar novo item
+- ✅ Listar todos os itens
+- ✅ Editar item existente
+- ✅ Deletar item
+- ✅ Estilização responsiva com Tailwind CSS
 
-This project is open source and available under the [MIT License](LICENSE).
+## 📦 Instalação
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/Kaue-Gomes/Crud-React
+cd Crud-React
